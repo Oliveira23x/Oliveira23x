@@ -50,13 +50,7 @@ Atuar como desenvolvedor e empreendedor tecnológico, criando soluções escalá
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=dark)
-
----
-
 ## 🤝 Vamos Conectar?
 
-- 💼 LinkedIn: (coloque aqui)
-- 📧 Email: (coloque aqui)
+- 💼 LinkedIn:www.linkedin.com/in/diego-oliveira-dev-bridge
+- 📧 Email:diegooliveira01.ez@gmail.com
