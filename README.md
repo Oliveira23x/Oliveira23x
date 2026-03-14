@@ -1,5 +1,5 @@
 # Diego Oliveira 👋  
-### Desenvolvedor .NET | Empreendedor | Fundador da BRIDGE 🚀
+### Desenvolvedor Full Stack | Empreendedor | Fundador da BRIDGE 🚀
 
 Sou estudante de Desenvolvimento de Sistemas no SENAC e fundador da **BRIDGE**, uma edtech focada em reduzir evasão escolar e conectar estudantes ao mercado de trabalho através de tecnologia e IA.
 
